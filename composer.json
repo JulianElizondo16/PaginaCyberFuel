@@ -1,5 +1,5 @@
 {
-    "name": "julianelizondo16/armadillo-pagina",
+    "name": "julianelizondo16/paginacyberfuel",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework"],
@@ -14,7 +14,8 @@
         "laravel/tinker": "^2.8",
         "laravelcollective/html": "^6.4",
         "livewire/livewire": "^3.0",
-        "spatie/laravel-permission": "^6.0"
+        "spatie/laravel-permission": "^6.0",
+        "julianelizondo16/paginacyberfuel": "dev-master@dev"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
@@ -39,7 +40,6 @@
     },
 
     "repositories": [{
-
         "type": "vcs",
         "url": "https://github.com/JulianElizondo16/PaginaCyberFuel.git"
     }],
