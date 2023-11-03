@@ -15,7 +15,7 @@
         "laravelcollective/html": "^6.4",
         "livewire/livewire": "^3.0",
         "spatie/laravel-permission": "^6.0",
-        "julianelizondo16/paginacyberfuel": "dev-master@dev"
+        "julianelizondo16/paginacyberfuel": "dev-master"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
