@@ -37,6 +37,14 @@
             "Tests\\": "tests/"
         }
     },
+
+    "repositories": [{
+
+        "type": "vcs",
+        "url": "https://github.com/JulianElizondo16/PaginaCyberFuel.git"
+    }],
+
+
     "scripts": {
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
