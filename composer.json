@@ -14,8 +14,14 @@
         "laravel/tinker": "^2.8",
         "laravelcollective/html": "^6.4",
         "livewire/livewire": "^3.0",
-        "spatie/laravel-permission": "^6.0"
+        "spatie/laravel-permission": "^6.0",
+        "julianelizondo16/paginacyberfuel": "dev-master"
     },
+
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/JulianElizondo16/PaginaCyberFuel.git"
+    }],
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
@@ -37,12 +43,6 @@
             "Tests\\": "tests/"
         }
     },
-
-    "repositories": [{
-        "type": "vcs",
-        "url": "https://github.com/JulianElizondo16/PaginaCyberFuel.git"
-    }],
-
 
     "scripts": {
         "post-autoload-dump": [
