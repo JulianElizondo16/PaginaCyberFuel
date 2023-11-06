@@ -28,7 +28,6 @@
     "autoload": {
         "psr-4": {
             "JulianElizondo16\\PaginaCyberFuel\\": "src",
-            "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
         }
@@ -68,6 +67,10 @@
             "php-http/discovery": true
         }
     },
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/JulianElizondo16/PaginaCyberFuel.git"
+    }],
     "minimum-stability": "stable",
     "prefer-stable": true
 }
