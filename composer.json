@@ -1,6 +1,6 @@
 {
     "name": "julianelizondo16/paginacyberfuel",
-    "type": "project",
+    "type": "library",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
@@ -15,7 +15,7 @@
         "laravelcollective/html": "^6.4",
         "livewire/livewire": "^3.0",
         "spatie/laravel-permission": "^6.0",
-        "julianelizondo16/paginacyberfuel": "dev-master"
+        "julianelizondo16/paginacyberfuel": "dev-master@dev"
     },
 
     "repositories": [{
